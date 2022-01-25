@@ -36,8 +36,8 @@ def tri():
    pass
 
 def styri():
-   pass
+   canvas.create_text(50,50,"Ahoj")
 
-
+styri()
 tkinter.mainloop()
 
